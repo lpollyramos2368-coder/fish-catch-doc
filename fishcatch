@@ -1,0 +1,6 @@
+public class FishCatch {
+    private String species;
+    private double weight;
+
+    // constructor, getters, setters
+}
